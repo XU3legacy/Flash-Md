@@ -1,4 +1,4 @@
-const { france } = require('../framework/zokou');
+const { france } = require('../framework/france');
 
 france(
     {
