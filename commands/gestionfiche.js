@@ -1,6 +1,6 @@
-const { zokou } = require('../framework/zokou');
+const { france } = require('../framework/zokou');
 
-zokou(
+france(
     {
         nomCom: 'classe',
         categorie: 'Seabox'
@@ -34,7 +34,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'fiche',
         categorie: 'Seabox'
@@ -78,7 +78,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'yu',
         categorie: 'Seabox'
@@ -122,7 +122,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'lordeiser',
         categorie: 'Seabox'
@@ -166,7 +166,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'kunday',
         categorie: 'Seabox'
@@ -210,7 +210,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'johnsmith',
         categorie: 'Seabox'
@@ -254,7 +254,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'tempest',
         categorie: 'Seabox'
@@ -298,7 +298,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'lone',
         categorie: 'Seabox'
@@ -342,7 +342,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'svain',
         categorie: 'Seabox'
@@ -386,7 +386,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'nell',
         categorie: 'Seabox'
@@ -430,7 +430,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'sabo',
         categorie: 'Seabox'
@@ -474,7 +474,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'satorubh',
         categorie: 'Seabox'
@@ -518,7 +518,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'minilust',
         categorie: 'Seabox'
@@ -562,7 +562,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'minilust',
         categorie: 'Seabox'
@@ -606,7 +606,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'zero',
         categorie: 'Seabox'
@@ -650,7 +650,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'pavebattlebox',
         categorie: 'Seabox'
@@ -684,7 +684,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'mapbattlebox🔹',
         categorie: 'Seabox'
@@ -737,7 +737,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'riskymnsmap🔹',
         categorie: 'Seabox'
@@ -759,7 +759,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'pavebox🔹',
         categorie: 'Seabox'
@@ -769,19 +769,16 @@ zokou(
 
         if (!arg || arg.length === 0)  {
             const lien = 'https://telegra.ph/file/e9050ecda6b55fc6cf521.jpg';
-            const msg = `*ℙ𝔸𝕍𝔼 𝔻𝕌 𝕁𝕆𝕌𝔼𝕌ℝ🔻*
-▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨
-*ℕ𝔸𝕄𝔼*:
-▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨
+            const msg = `*🔷SEABOX PAVE*
+         *JOUEUR SEABOX🔹*
+░░░━━━━━
+        _Distance_: *5m*
+                ━━━━━━░░░
 💬:
-        ◉━━━━━━━━━━◇
+     ━━━
+✖️
 
-👑:
-
-▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨
-*ℙ𝔸𝕍𝔼 𝕊𝔼𝔸 𝔹𝕆𝕏 ℂ𝕆𝕄𝕄𝕌ℕ𝕀𝕋𝕐*
-                  ♲︎    *・・・55%♲︎*
-▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨▨`;
+░░░━━━━━━━━━━━━━━━━░░`;
             zk.sendMessage(dest, { image: { url: lien }, caption: msg }, { quoted: ms });
    
         }
@@ -789,7 +786,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'jaxnemesis',
         categorie: 'Seabox'
@@ -833,7 +830,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'kamado',
         categorie: 'Seabox'
@@ -877,7 +874,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'imura',
         categorie: 'Seabox'
@@ -921,7 +918,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'mihawk',
         categorie: 'Seabox'
@@ -965,7 +962,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'yūkunn',
         categorie: 'Seabox'
@@ -1009,7 +1006,7 @@ zokou(
 );
 
 
-zokou(
+france(
     {
         nomCom: 'navaro',
         categorie: 'Seabox'
