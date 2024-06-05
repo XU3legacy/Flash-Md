@@ -124,7 +124,7 @@ france(
 
 france(
     {
-        nomCom: 'Satoru',
+        nomCom: 'satoru',
         categorie: 'Seabox'
     },
     async (dest, zk, commandeOptions) => {
