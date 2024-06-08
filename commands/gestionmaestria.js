@@ -2,7 +2,7 @@ const { france } = require('../framework/france');
 
 france(
     {
-        nomCom: 'Darruinestat',
+        nomCom: 'darruinestat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -44,7 +44,7 @@ france(
 
 france(
     {
-        nomCom: 'Minatostat',
+        nomCom: 'minatostat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -86,7 +86,7 @@ france(
 
 france(
     {
-        nomCom: 'Absoluteangelstat',
+        nomCom: 'absoluteangelstat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -128,7 +128,7 @@ france(
 
 france(
     {
-        nomCom: 'Harukastat ',
+        nomCom: 'harukastat ',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -170,7 +170,7 @@ france(
 
 france(
     {
-        nomCom: 'Himestat',
+        nomCom: 'himestat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -212,7 +212,7 @@ france(
 
 france(
     {
-        nomCom: 'Neostat',
+        nomCom: 'neostat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -254,7 +254,7 @@ france(
 
 france(
     {
-        nomCom: 'Obitostat',
+        nomCom: 'obitostat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -296,7 +296,7 @@ france(
 
 france(
     {
-        nomCom: 'Silvastat',
+        nomCom: 'silvastat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -338,7 +338,7 @@ france(
 
 france(
     {
-        nomCom: 'Valtstat',
+        nomCom: 'valtstat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -380,7 +380,7 @@ france(
 
 france(
     {
-        nomCom: 'Veldrastat',
+        nomCom: 'veldrastat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -422,7 +422,7 @@ france(
 
 france(
     {
-        nomCom: 'Kaiserstat',
+        nomCom: 'kaiserstat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -464,7 +464,7 @@ france(
 
 france(
     {
-        nomCom: 'Keikaiserstat',
+        nomCom: 'keikaiserstat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -506,7 +506,7 @@ france(
 
 france(
     {
-        nomCom: 'Killuastat',
+        nomCom: 'killuastat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -548,7 +548,7 @@ france(
 
 france(
     {
-        nomCom: 'Lefoudroyantstat',
+        nomCom: 'lefoudroyantstat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -590,7 +590,7 @@ france(
 
 france(
     {
-        nomCom: 'Iambusystat',
+        nomCom: 'iambusystat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -632,7 +632,7 @@ france(
 
 france(
     {
-        nomCom: 'Leywinstat',
+        nomCom: 'leywinstat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -674,7 +674,7 @@ france(
 
 france(
     {
-        nomCom: 'Luststat',
+        nomCom: 'luststat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -716,7 +716,7 @@ france(
 
 france(
     {
-        nomCom: 'Xiaostat',
+        nomCom: 'xiaostat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -758,7 +758,7 @@ france(
 
 france(
     {
-        nomCom: 'Yûstat',
+        nomCom: 'yûstat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -800,7 +800,7 @@ france(
 
 france(
     {
-        nomCom: 'Yustat',
+        nomCom: 'yustat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -842,7 +842,7 @@ france(
 
 france(
     {
-        nomCom: 'Zenitsustat',
+        nomCom: 'zenitsustat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -884,7 +884,7 @@ france(
 
 france(
     {
-        nomCom: 'Toyomistat',
+        nomCom: 'toyomistat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -926,7 +926,7 @@ france(
 
 france(
     {
-        nomCom: 'Meistat',
+        nomCom: 'meistat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -968,7 +968,7 @@ france(
 
 france(
     {
-        nomCom: 'Hajimestat',
+        nomCom: 'hajimestat',
         categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
@@ -1006,5 +1006,3 @@ france(
         }
     }
 );
-
-
