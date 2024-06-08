@@ -2,8 +2,8 @@ const { france } = require('../framework/france');
 
 france(
     {
-        nomCom: 'Darruine.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Darruinestat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -44,8 +44,8 @@ france(
 
 france(
     {
-        nomCom: 'Minato.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Minatostat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -86,8 +86,8 @@ france(
 
 france(
     {
-        nomCom: 'Absoluteangel.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Absoluteangelstat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -128,8 +128,8 @@ france(
 
 france(
     {
-        nomCom: 'Haruka.stat ',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Harukastat ',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -170,8 +170,8 @@ france(
 
 france(
     {
-        nomCom: 'Hime.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Himestat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -212,8 +212,8 @@ france(
 
 france(
     {
-        nomCom: 'Neo.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Neostat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -254,8 +254,8 @@ france(
 
 france(
     {
-        nomCom: 'Obito.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Obitostat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -296,8 +296,8 @@ france(
 
 france(
     {
-        nomCom: 'Silva.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Silvastat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -338,8 +338,8 @@ france(
 
 france(
     {
-        nomCom: 'Valt.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Valtstat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -380,8 +380,8 @@ france(
 
 france(
     {
-        nomCom: 'Veldra.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Veldrastat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -422,8 +422,8 @@ france(
 
 france(
     {
-        nomCom: 'Kaiser.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Kaiserstat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -464,8 +464,8 @@ france(
 
 france(
     {
-        nomCom: 'Keikaiser.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Keikaiserstat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -506,8 +506,8 @@ france(
 
 france(
     {
-        nomCom: 'Killua.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Killuastat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -548,8 +548,8 @@ france(
 
 france(
     {
-        nomCom: 'Lefoudroyant.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Lefoudroyantstat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -590,8 +590,8 @@ france(
 
 france(
     {
-        nomCom: 'Iambusy.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Iambusystat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -632,8 +632,8 @@ france(
 
 france(
     {
-        nomCom: 'Leywin.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Leywinstat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -674,8 +674,8 @@ france(
 
 france(
     {
-        nomCom: 'Lust.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Luststat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -716,8 +716,8 @@ france(
 
 france(
     {
-        nomCom: 'Xiao.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Xiaostat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -758,8 +758,8 @@ france(
 
 france(
     {
-        nomCom: 'Yû.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Yûstat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -800,8 +800,8 @@ france(
 
 france(
     {
-        nomCom: 'Yu.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Yustat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -842,8 +842,8 @@ france(
 
 france(
     {
-        nomCom: 'Zenitsu.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Zenitsustat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -884,8 +884,8 @@ france(
 
 france(
     {
-        nomCom: 'Toyomi.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Toyomistat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -926,8 +926,8 @@ france(
 
 france(
     {
-        nomCom: 'Mei.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Meistat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
@@ -968,8 +968,8 @@ france(
 
 france(
     {
-        nomCom: 'Hajime.stat',
-        categorie: 'Maestria rpverse'
+        nomCom: 'Hajimestat',
+        categorie: 'Maestriarpverse'
     },
     async (dest, zk, commandeOptions) => {
         const { repondre, arg, ms } = commandeOptions;
