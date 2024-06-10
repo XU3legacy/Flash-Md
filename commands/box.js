@@ -15,7 +15,7 @@ france(
             zk.sendMessage(dest, { image: { url: lien }, caption: msg }, { quoted: ms });
 
             // Ajoutez ici le code pour envoyer un message si aucun argument n'est fourni
-            const messageAEnvoyer = "╭━━━「 𝚳𝚫𝚵𝐒𝚻𝚪𝚰𝚫 」❏
+            const messageAEnvoyer = '╭━━━「 𝚳𝚫𝚵𝐒𝚻𝚪𝚰𝚫 」❏
 ┆*♯ ROLE PLAY VERSE*
 ╰━━━━━━━━━━━━━❖
 *❖Pseudo*👤:「 」
@@ -38,7 +38,7 @@ france(
 
      ━━━━━━━━━━━
 ━━━━━━
-*Equipment🎒*:";
+*Equipment🎒*:';
             zk.sendMessage(dest, { text: messageAEnvoyer }, { quoted: ms });
         }
     }
