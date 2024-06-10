@@ -14,7 +14,8 @@ france(
             const msg = `Bonjour @${numeroUtilisateur.split("@")[0]}, tu as exécuté la commande '${commandeOptions.nomCom}'. Voici une image pour toi:`;
             zk.sendMessage(dest, { image: { url: lien }, caption: msg }, { quoted: ms });
 
-            // Ajoutez ici le code pour envoyer un message si aucun argument n'est fo╭━━━「 𝚳𝚫𝚵𝐒𝚻𝚪𝚰𝚫 」❏
+            // Ajoutez ici le code pour envoyer un message si aucun argument n'est fourni
+            const messageAEnvoyer = "╭━━━「 𝚳𝚫𝚵𝐒𝚻𝚪𝚰𝚫 」❏
 ┆*♯ ROLE PLAY VERSE*
 ╰━━━━━━━━━━━━━❖
 *❖Pseudo*👤:「 」
